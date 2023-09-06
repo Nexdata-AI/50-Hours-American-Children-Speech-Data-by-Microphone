@@ -4,7 +4,9 @@
 ## Description
 It is recorded by 219 American children native speakers. The recording texts are mainly storybook, children's song, spoken expressions, etc. 350 sentences for each speaker. Each sentence contain 4.5 words in average. Each sentence is repeated 2.1 times in average. The recording device is hi-fi Blueyeti microphone. The texts are manually transcribed.
 
-For more details, please refer to the link: https://bit.ly/3C78AGC
+For more details, please refer to the link: https://www.nexdata.ai/datasets/75?source=Github
+
+
 
 ## Format
 44.1kHz, 16bit, uncompressed wav, mono channel
